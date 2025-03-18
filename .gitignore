@@ -1,0 +1,6 @@
+old/
+chatbot.db
+database.sqlite3
+users_database.db
+icons/
+.venv/
